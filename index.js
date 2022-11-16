@@ -34,6 +34,7 @@ module.exports = {
   ],
   branches: [
     'master',
+    'main',
     {
       name: 'beta',
       prerelease: true,
