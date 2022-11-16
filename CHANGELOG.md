@@ -1,3 +1,11 @@
+# [1.3.0](https://git3.nexdev.net/l1/sc-packages/sc-semantic-release/compare/v1.2.0...v1.3.0) (2022-11-16)
+
+
+### Features
+
+* add branch "main" to branches config ([c43d12c](https://git3.nexdev.net/l1/sc-packages/sc-semantic-release/commit/c43d12ca2b438d2311ef42952e38499f066ea241))
+* add reg script ([9d4e729](https://git3.nexdev.net/l1/sc-packages/sc-semantic-release/commit/9d4e729091061c075a0b4c3aee50e7aea3845594))
+
 # [1.2.0](https://git3.nexdev.net/sc-packages/sc-semantic-release/compare/v1.1.0...v1.2.0) (2020-08-26)
 
 
