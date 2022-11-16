@@ -6,7 +6,8 @@
   "scripts": {
     "pub": "npm publish --registry http://npm.lumigame.com",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "reg": "npm set registry http://npm.lumigame.com"
   },
   "author": "",
   "license": "ISC",
